@@ -1,0 +1,32 @@
+body{
+    background-color: #363838;
+}
+
+.general{
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)
+    )
+    ,url(../img/fondo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 7rem 0 ;
+}
+h1{
+    margin-top: 0;
+}
+
+img{
+    border-radius: 4px 4px 0 0;
+}
+
+.pie-img{
+    background-color: #187b7b;
+    border-radius:0 0 8px 8px;
+}
+
+.pie-img span{
+    color: #fff;
+}
